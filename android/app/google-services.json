@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696483916660",
+    "project_id": "coinwirelive",
+    "storage_bucket": "coinwirelive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696483916660:android:a9270a01203c9cd76f9a21",
+        "android_client_info": {
+          "package_name": "com.artasce.coinwirelive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696483916660-hkoq0gsk7pb8nf4f0phefnrgnpmoer1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcjNSsrFsLkGdyeDXdl8ih64peoQ_35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696483916660-hkoq0gsk7pb8nf4f0phefnrgnpmoer1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
